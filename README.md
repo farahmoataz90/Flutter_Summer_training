@@ -12,8 +12,8 @@ This repository contains resources and projects related to the summer training p
 
 ## Introduction
 
-This repository is designed to support the Flutter Summer Training program, providing participants with hands-on experience in Flutter app development.
-It includes sample projects, code snippets, and resources to help participants learn and build their skills.
+This repository is designed to support the Flutter Summer Training program tasks, with hands-on experience in Flutter app development.
+It includes sample projects, code snippets, and resources to help learn and build skills.
 
 ## Projects
 
